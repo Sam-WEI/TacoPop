@@ -1,0 +1,3 @@
+Protocol based implementation.
+
+Extension
